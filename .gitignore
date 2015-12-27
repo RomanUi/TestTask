@@ -3,4 +3,7 @@
 Homestead.yaml
 Homestead.json
 .env
+.env.*.php
+.env.php
 /.idea
+/bootstrap/compiled.php
