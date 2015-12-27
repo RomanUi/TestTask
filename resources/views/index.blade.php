@@ -52,6 +52,8 @@
                         data.list.forEach(function(item) {
                             that.appendItem(item);
                         });
+                    } else {
+                        alert('Some error. Please try again latter.');
                     }
                 });
             },
